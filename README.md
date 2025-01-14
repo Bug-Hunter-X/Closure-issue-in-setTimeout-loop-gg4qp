@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript closure issue that arises when using setTimeout within a loop.  The problem lies in how closures capture variables. The solution showcases a proper way to handle this scenario, ensuring the correct values are printed within the setTimeout callback.
